@@ -1,0 +1,29 @@
+Product : API 
+
+Create Product 
+Update Product 
+Delete Product 
+Get All Product
+
+Product detail would be as below : 
+
+name
+type
+regular_price
+description
+short_description
+images
+
+Mongod DB Detail : mongodb+srv://Admin:Admin@2021!@cluster1.hf37e.mongodb.net/test
+
+Node.js API Authentication With JWT : https://www.youtube.com/watch?v=7nafaH9SddUy
+Adding User Login & JWT Signing | Creating a REST API with Node.js : https://www.youtube.com/watch?v=0D5EEKH97NA
+
+Multer : https://www.bacancytechnology.com/blog/file-upload-using-multer-with-nodejs-and-express
+
+Users Data : 
+
+fullname
+username
+email
+password
